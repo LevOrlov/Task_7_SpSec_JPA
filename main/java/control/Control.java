@@ -1,6 +1,5 @@
 package control;
 
-import dao.UserDao;
 import model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
